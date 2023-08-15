@@ -1,1 +1,1 @@
-iremi cok seviyorum naber
+deneme
