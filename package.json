@@ -1,5 +1,5 @@
 {
-  "name": "drackin-website",
+  "name": "werlion-website",
   "private": true,
   "scripts": {
     "dev": "next dev",
